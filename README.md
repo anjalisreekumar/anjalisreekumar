@@ -1,6 +1,6 @@
 # Hello there 👋
 
-I am a mobile developer who mostly writes code in Swift. I have over 2 years of experience working on native iOS apps. I enjoy this domain because Swift was the first language that made me think, "hell yeah, even I can write cool programs." You could say it's my ride or die programming language 😎. Please feel free to look around!
+I am a mobile developer who mostly writes code in Swift. I have over 2 years of experience working on native iOS apps. I enjoy this domain because Swift was the first language that made me think, "hell yeah, even I can write cool programs." You could say it's my ride or die programming language :P . Please feel free to look around!
 
 ---
 
