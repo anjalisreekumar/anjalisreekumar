@@ -9,13 +9,6 @@ I am a mobile developer who mostly writes code in Swift. I have over 2 years of 
 - [Mantis](https://github.com/guoyingtao/Mantis) — iOS cropping library; contributed fixes for threading issues.  
 - [dotLottie iOS](https://github.com/LottieFiles/dotlottie-ios) — Lightweight Lottie file support; contributed fixes for workflow failures.
 
----
-
-### Currently Working On 🚧
-
-- [StreamCircle](https://github.com/anjalisreekumar/StreamCircle) — Building a live streaming app from scratch using only free tools! Firebase handles auth, the Agora free tier powers all the streaming magic, and Mixpanel is there for analytics (probably overkill, but hey, learning new stuff is always fun!). Focusing on unit tests and trying out test-driven development with MVVM. Oh, and I also got to play around with Apple’s Icon Composer for this project.
-
----
 
 ### Tech Stack
 
